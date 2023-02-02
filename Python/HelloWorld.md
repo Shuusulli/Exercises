@@ -1,4 +1,4 @@
-##Exercice : Hello, World!
+## Exercice : Hello, World!
 
 Here is a sample line of code that can be executed in Python:
 ```python
@@ -12,19 +12,19 @@ print(my_string)
 ```
 The above code will print **Hello, World!** on your screen. Try it yourself!
 
-#####Input Format
+### Input Format
 
 You do not need to read any input in this challenge.
 
-#####Output Format
+### Output Format :
 
 Print **Hello, World!** to stdout.
 
-#####Sample Output 0
+### Sample Output 0 :
 
-Hello, World!
+    Hello, World!
 
-##Solution : 
+## Solution : 
 ```python
 print("Hello, World!")
 ```
